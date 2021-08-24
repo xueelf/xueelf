@@ -1,4 +1,6 @@
-### Hi there 👋
+## <img height="40" src="./assets/kyubey.gif" alt="kyubey">
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **dcyuki/dcyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
