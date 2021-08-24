@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/title.svg" alt="counter">
+  <img src="http://101.34.136.96:3000/get/@dcyuki?theme=rule34" alt="counter">
 </h1>
 
 ## <img height="40" src="./assets/kyubey.gif" alt="kyubey" /> Links
