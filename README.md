@@ -1,4 +1,8 @@
-## <img height="40" src="./assets/kyubey.gif" alt="kyubey">
+<h1 align="center">
+  <img src="./assets/title.svg" alt="hello world" />
+</h1>
+
+## <img height="40" src="./assets/kyubey.gif" alt="kyubey" />
 
 <!-- ### Hi there 👋 -->
 
