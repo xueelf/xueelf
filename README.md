@@ -2,6 +2,14 @@
   <img src="http://101.34.136.96:3000/get/@dcyuki?theme=rule34" alt="counter">
 </h1>
 
+``` javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+}
+```
+
 ## <img height="40" src="./assets/kyubey.gif" alt="kyubey" /> Links
 
 [![github](https://img.shields.io/badge/github-FAFAFA?style=flat-square&labelColor=181717&logo=GitHub)](https://github.com/dcyuki)
