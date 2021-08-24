@@ -1,8 +1,13 @@
 <h1 align="center">
-  <img src="./assets/title.svg" alt="hello world" />
+  <img src="./assets/title.svg" alt="counter">
 </h1>
 
-## <img height="40" src="./assets/kyubey.gif" alt="kyubey" />
+## <img height="40" src="./assets/kyubey.gif" alt="kyubey" /> Links
+
+[![github](https://img.shields.io/badge/github-FAFAFA?style=flat-square&labelColor=181717&logo=GitHub)](https://github.com/dcyuki)
+[![weibo](https://img.shields.io/badge/weibo-FAFAFA?style=flat-square&labelColor=E6162D&logo=SinaWeibo)](https://weibo.com/u/3899090989)
+[![twitter](https://img.shields.io/badge/twitter-00a1d6?style=flat-square&labelColor=FAFAFA&logo=Twitter)](https://twitter.com/dacapo_yuki)
+[![bilibili](https://img.shields.io/badge/bilibili-00a1d6?style=flat-square&labelColor=FAFAFA&logo=Bilibili)](https://space.bilibili.com/1414464)
 
 <!-- ### Hi there 👋 -->
 
